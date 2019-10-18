@@ -1,4 +1,4 @@
-<img src="img/bluehat.png">
+<img src="img/bluehat.jpg">
 
 # Applied Data Science for Security Professionals
 <img src="img/logo_white_bkg_small.png" width="200" align="left" >
